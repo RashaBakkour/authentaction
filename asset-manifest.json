@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/authentaction/static/css/main.0997b3d8.css",
+    "main.js": "/authentaction/static/js/main.8e2ba03a.js",
+    "static/js/453.ed98e798.chunk.js": "/authentaction/static/js/453.ed98e798.chunk.js",
+    "static/media/Rectangle 16.png": "/authentaction/static/media/Rectangle 16.4fb2a6e126a3ee1914d9.png",
+    "static/media/pexels-shottrotter-1309769-removebg-preview 1.png": "/authentaction/static/media/pexels-shottrotter-1309769-removebg-preview 1.304e84fcaeb8a2ebad69.png",
+    "static/media/pexels-nietjuh-1445416-removebg-preview 1.png": "/authentaction/static/media/pexels-nietjuh-1445416-removebg-preview 1.103954e77b697c29fc50.png",
+    "static/media/pexels-rafa-de-21730-97260-removebg-preview 1.png": "/authentaction/static/media/pexels-rafa-de-21730-97260-removebg-preview 1.1ab7d2176abf5a95a0c1.png",
+    "index.html": "/authentaction/index.html",
+    "main.0997b3d8.css.map": "/authentaction/static/css/main.0997b3d8.css.map",
+    "main.8e2ba03a.js.map": "/authentaction/static/js/main.8e2ba03a.js.map",
+    "453.ed98e798.chunk.js.map": "/authentaction/static/js/453.ed98e798.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0997b3d8.css",
+    "static/js/main.8e2ba03a.js"
+  ]
+}
