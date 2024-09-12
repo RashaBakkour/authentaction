@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  caret-color: #fff;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: var(--body-color);
+}
+
+.container {
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+nav .logout-nav {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+nav .logo {
+    display: block;
+    width: 96px;
+    height: 72px;
+    padding: 10px 0 0 10px;
+}
+.home-page{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.home{
+    width: 680px;
+    height: 420px;
+    top: 217px;
+    left: 252px;
+    gap: 0px;
+    border-radius: 55px ;
+    border: 1px solid rgba(241, 241, 241, 0.48);
+    box-shadow: -47.43px 47.43px 47.43px 0px rgba(255, 255, 255, 0.1) inset,
+                47.43px -47.43px 47.43px 0px rgba(194, 194, 194, 0.1) inset;
+    background: rgba(255, 255, 255, 0.1);
+    opacity: 0px;
+
+}
+.home-button{
+    display: flex;
+    justify-content: end;
+    margin-top: 35px;
+    margin-right: 50px;
+}
+.home-button .logout{
+    width: 168px;
+    height: 50px;
+    top: 243px;
+    left: 924px;
+    padding: 10px 49px 10px 53px;
+    gap: 0px;
+    border-radius: 45px ;
+    border: 1px solid rgba(252, 252, 252, 1);
+    background: rgba(124, 135, 97, 0.67);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+
+
+}
+/* .home-content{
+    display: flex;
+    justify-content: center;
+} */
+.home-content .welcome{
+    /* width: 552px; */
+    height: 54px;
+    /* top: 402px;
+    left: 445px;
+    gap: 0px;
+    opacity: 0px; */
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 54px;
+    text-align: center;
+    background: linear-gradient(180deg, #508D4E -14.81%, #161313 100%);
+    background-clip: text;
+    color: transparent;
+    margin-top: 40px;
+}
+.home-content .home-image{
+    display: flex;
+    padding: 0 50px;
+    /* flex-direction: row; */
+}
+/* .home-content .home-image .images{
+    
+    flex: 1;
+} */
+.home-content .home-image img{
+    width: 33%;
+    height: 215px;
+    padding: 5px;
+}
+/* .home-content .home-image .img_1
+{
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 33px;
+    
+}
+.home-content .home-image .img_2
+{
+    
+    width: 200px;
+    height: 200px;
+    margin-top: 26px;
+    
+}
+.home-content .home-image .img_3
+{
+   
+    width: 200px;
+    height: 200px;
+} */
